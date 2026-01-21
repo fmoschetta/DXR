@@ -1,5 +1,6 @@
 {
   "name": "Dexter Cell | A Assistência Nº 1 de POA",
   "description": "A Assistência Técnica Nº 1 de Porto Alegre. Se sua tela foi pro beleléu, a Dexter resolve. Busca grátis na Zona Norte.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "themeColor": "#a9cf46"
 }

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a9cf46;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#80c41b;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path d="M40 20 L60 20 L60 80 L40 80 Z" fill="url(#grad1)" />
+  <path d="M65 20 L85 20 L85 70 L105 70 L105 20 L125 20 L125 80 L65 80 Z" fill="#fff" class="dark-text"/>
+  <text x="140" y="70" font-family="Arial, sans-serif" font-weight="bold" font-size="50" fill="#fff" class="dark-text">DEXTER</text>
+  <text x="345" y="70" font-family="Arial, sans-serif" font-weight="300" font-size="50" fill="#a9cf46">CELL</text>
+  <style>
+    @media (prefers-color-scheme: light) {
+      .dark-text { fill: #050505; }
+    }
+    .dark .dark-text { fill: #ffffff; }
+  </style>
+</svg>
